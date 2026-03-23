@@ -52,7 +52,7 @@
 
 ## 🌐 Connect with Me
 
-* LinkedIn: [Add your link]
+* LinkedIn: https://www.linkedin.com/in/vaishnavi-p-81b505380/
 
 
 ---
