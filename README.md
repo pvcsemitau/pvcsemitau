@@ -1,5 +1,10 @@
 # Hi there 👋, I'm pvcsemitau
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Software+Developer;Problem+Solver;Tech+Enthusiast&center=true&width=500&height=50">
+</p>
+
+
 🎓 Student | 💻 Aspiring Developer | 🚀 Tech Enthusiast
 
 ---
@@ -9,34 +14,28 @@
 * 🌱 I’m currently learning **programming and development**
 * 🔭 I’m working on improving my **coding skills**
 * 💡 Interested in **software development & problem solving**
-* 📫 Reach me at: *[your-email@example.com](mailto:your-email@example.com)*
+* 📫 Reach me at: *pv.cse.mitau@gmail.com*
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-* 💻 Languages: C, C++, Python *(update as needed)*
-* 🌐 Web: HTML, CSS, JavaScript
+* 💻 Languages: C, C++, Python 
+* 🌐 Web: HTML
 * ⚙️ Tools: Git, GitHub, VS Code
-* 🗄️ Databases: MySQL *(optional)*
+* 🗄️ Databases: MySQL 
 
 ---
 
-## 📌 Projects
 
-Here are some of my projects:
-
-### 🔹 Project 1
-
-* Description: Add your project details here
-* Tech Used: HTML, CSS, JavaScript
-* 🔗 Link: [Project Link]
-
-### 🔹 Project 2
-
-* Description: Add your project details here
-* Tech Used: Python / C++
-* 🔗 Link: [Project Link]
+---
+## 🛠️ Skills & Technologies
+<p>
+  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5" />
+</p>
 
 ---
 
@@ -55,7 +54,7 @@ Here are some of my projects:
 ## 🌐 Connect with Me
 
 * LinkedIn: [Add your link]
-* Portfolio: [Add if you have one]
+
 
 ---
 
