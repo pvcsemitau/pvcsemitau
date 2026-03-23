@@ -14,7 +14,6 @@
 * 🌱 I’m currently learning **programming and development**
 * 🔭 I’m working on improving my **coding skills**
 * 💡 Interested in **software development & problem solving**
-* 📫 Reach me at: *pv.cse.mitau@gmail.com*
 
 ---
 
